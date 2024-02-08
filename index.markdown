@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="container">
-  <h2 class="py-5">All toys</h2>
+  <h2 class="py-5">All toys - Pick your toy!</h2>
 </div>
 
 <div class="container">
